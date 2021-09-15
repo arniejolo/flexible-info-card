@@ -1,5 +1,7 @@
 html {
   box-sizing: border-box;
+  line-height: 1.5;
+  font-family: Open Sans;
 }
 
 *, *::before, *::after {
@@ -27,6 +29,8 @@ li {
   background-color: green;
   display: flex;
   justify-content: space-between;
+  width:
+
 }
 
 img {
