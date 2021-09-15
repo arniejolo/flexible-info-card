@@ -13,34 +13,6 @@ h2 {
   text-align: center;
 }
 
-section > ul {
-  background-color: red;
+ul {
   display: flex;
-  flex-wrap: wrap;
-  width: 5rem;
-  list-style-type: none;
-  align-items: stretch;
-  flex-direction: column;
-}
-
-section > ul li {
-  display: flex;
-  background-color: green;
-}
-
-hgroup {
-  background-color: yellow;
-  display: flex;
-  justify-content: center;
-}
-
-p {
-  background-color: pink;
-}
-
-a ref {
-  background-color: purple;
-}
-img {
-  width: 100%;
 }
