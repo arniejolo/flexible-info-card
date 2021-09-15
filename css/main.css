@@ -9,3 +9,10 @@ html {
 h2 {
   text-align: center;
 }
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 5rem;
+  list-style-type: none;
+}
