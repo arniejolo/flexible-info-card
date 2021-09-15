@@ -18,6 +18,7 @@ h2 {
 
 section {
   background-color: red;
+  margin: 1.5rem;
 }
 ul {
   background-color: pink;
@@ -29,7 +30,6 @@ li {
   background-color: green;
   display: flex;
   justify-content: space-between;
-  width:
 
 }
 
