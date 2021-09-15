@@ -10,9 +10,21 @@ h2 {
   text-align: center;
 }
 
-ul {
+section > ul {
+  background-color: red;
   display: flex;
   flex-wrap: wrap;
   width: 5rem;
   list-style-type: none;
+  align-items: stretch;
+  flex-direction: column;
+}
+
+section > ul li {
+  display: flex;
+  background-color: green;
+}
+
+img {
+  width: 100%;
 }
