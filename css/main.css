@@ -6,6 +6,9 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  background-color: #ccc;
+}
 h2 {
   text-align: center;
 }
@@ -25,6 +28,19 @@ section > ul li {
   background-color: green;
 }
 
+hgroup {
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  background-color: pink;
+}
+
+a ref {
+  background-color: purple;
+}
 img {
   width: 100%;
 }
