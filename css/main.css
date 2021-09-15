@@ -19,11 +19,16 @@ section {
 }
 ul {
   background-color: pink;
-  display: flex;
-  justify-content: space-between;
   list-style-type: none;
+
 }
 
 li {
   background-color: green;
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  width: 5em;
 }
