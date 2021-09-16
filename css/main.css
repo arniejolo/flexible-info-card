@@ -25,6 +25,7 @@ h2 {
 section > ul > li {
   background-color: red;
   display: flex;
+  justify-content: space-between;
   align-items: center;
   margin: 1.5rem;
 }
