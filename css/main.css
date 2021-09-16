@@ -16,23 +16,13 @@ h2 {
   text-align: center;
 }
 
-section {
+section > ul {
   background-color: red;
-  margin: 1.5rem;
-}
-
-ul {
-  background-color: pink;
   list-style-type: none;
+  padding: 0;
+
   display: flex;
   flex-wrap: wrap;
-  align-content: flex-start;
-}
-
-section > ul > li {
-  background-color: blue;
-}
-
-img {
-  width: 5rem;
+  justify-content: center;
+  padding: .5rem 1rem .6rem;
 }
