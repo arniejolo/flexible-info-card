@@ -17,9 +17,22 @@ h2 {
   justify-content: center;
 }
 
+section {
+  padding: 2rem;
+}
+
 section > ul {
   list-style-type: none;
   display: flex;
+  flex-direction: column;
+}
 
+section > ul > li {
+  display: flex;
+  justify-content: space-between;
 
+}
+
+img {
+  width: 5rem;
 }
