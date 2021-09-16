@@ -51,8 +51,8 @@ a {
   color: white;
   background-color: #444;
   text-decoration: none;
-  padding: 0;
-  margin: 0;
+  padding: .5rem 1rem .6rem;
+  margin: 1.5;
 }
 
 img {
