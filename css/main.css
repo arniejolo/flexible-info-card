@@ -36,6 +36,10 @@ hgroup {
   padding: 0;
 
 }
+p {
+  display: flex;
+  flex-wrap: wrap;
+}
 
 a {
   display: flex;
