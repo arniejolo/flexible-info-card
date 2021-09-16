@@ -26,11 +26,11 @@ ul {
 
 }
 
-li {
+section > ul li {
   background-color: green;
   display: flex;
   justify-content: space-between;
-
+  align-items: center;
 }
 
 img {
