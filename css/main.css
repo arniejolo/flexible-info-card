@@ -39,10 +39,12 @@ hgroup {
 p {
   display: flex;
   flex-wrap: wrap;
+
 }
 
 a {
   display: flex;
+  flex-wrap: wrap;
   text-decoration: none;
   font-style: none;
 }
