@@ -10,15 +10,12 @@ html {
 
 body {
   background-color: #ccc;
+  margin: 1.5rem;
 }
 
 h2 {
   display: flex;
   justify-content: center;
-}
-
-section {
-  padding: 2rem;
 }
 
 section > ul {
