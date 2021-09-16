@@ -8,21 +8,11 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  background-color: #ccc;
-  margin: 1.5rem;
-}
 h2 {
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 section > ul {
-  background-color: red;
-  list-style-type: none;
-  padding: 0;
 
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  padding: .5rem 1rem .6rem;
 }
