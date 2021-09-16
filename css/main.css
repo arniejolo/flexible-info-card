@@ -31,6 +31,7 @@ section > ul li {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: .5rem 1rem .6rem;
 }
 
 img {
