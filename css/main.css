@@ -13,7 +13,8 @@ body {
 }
 
 section {
-  background-color: green;
+  background-color: blue;
+  list-style-type: none;
 }
 
 h2 {
@@ -21,21 +22,16 @@ h2 {
   justify-content: center;
 }
 
-section > ul {
-    background-color: blue;
-    list-style-type: none;
-
-}
-
 section > ul > li {
   background-color: red;
   display: flex;
   align-items: center;
+  margin: 1.5rem;
 }
 
 hgroup {
   background-color: magenta;
-  padding: .5rem 1rem .6rem;
+  width: 16rem;
 }
 
 a {
