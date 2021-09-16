@@ -10,11 +10,10 @@ html {
 
 body {
   background-color: #ccc;
-  margin: 1.5rem;
 }
 
 section {
-  padding: .5rem 1rem .6rem;
+  background-color: green;
 }
 
 h2 {
@@ -23,22 +22,26 @@ h2 {
 }
 
 section > ul {
-  list-style-type: none;
-  display: flex;
-  flex-direction: column;
+    background-color: blue;
+    list-style-type: none;
+
 }
 
 section > ul > li {
+  background-color: red;
   display: flex;
-  align-items: center;
-  padding: 2rem;
-  justify-content: space-between;
+
+}
+
+hgroup {
+  background-color: magenta;
+  padding: .5rem 1rem .6rem;
 }
 
 a {
+  display: flex;
   text-decoration: none;
   font-style: none;
-  font-color: none;
 }
 
 
