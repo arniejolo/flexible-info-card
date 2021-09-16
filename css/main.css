@@ -13,6 +13,10 @@ body {
   margin: 1.5rem;
 }
 
+section {
+  padding: .5rem 1rem .6rem;
+}
+
 h2 {
   display: flex;
   justify-content: center;
@@ -30,6 +34,9 @@ section > ul > li {
   padding: 2rem;
 }
 
+a ref {
+  display: flex;
+}
 img {
   width: 5rem;
 }
