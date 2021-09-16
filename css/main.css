@@ -19,15 +19,15 @@ h2 {
 }
 
 section > ul {
-  list-style-type: none;
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
 }
 
 section > ul > li {
+  list-style-type: none;
   display: flex;
-  justify-content: space-between;
-
+  padding: 2rem;
 }
 
 img {
