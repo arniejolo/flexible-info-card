@@ -35,6 +35,11 @@ section > ul > li {
   justify-content: space-between;
 }
 
+a {
+  text-decoration: none;
+  font-style: none;
+  font-color: none;
+}
 
 
 img {
