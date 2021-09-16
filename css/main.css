@@ -30,7 +30,7 @@ section > ul {
 section > ul > li {
   background-color: red;
   display: flex;
-
+  align-items: center;
 }
 
 hgroup {
